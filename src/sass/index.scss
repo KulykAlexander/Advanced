@@ -1,7 +1,11 @@
 @import './common';
 @import './utils/variables';
+@import './base/reset';
 @import './utils/mixins';
+@import './base/commons';
 @import './utils/visually';
+
+@import './components/container';
 
 @import './layouts/header';
 @import './layouts/hero';

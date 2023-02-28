@@ -1,0 +1,166 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M1011.81 512c0 276.037-223.772 499.81-499.81 499.81s-499.81-223.772-499.81-499.81c0-276.037 223.772-499.81 499.81-499.81s499.81 223.772 499.81 499.81z",
+          "M780.19 368.957h-536.381M780.19 655.043h-321.829M780.19 512h-214.552"
+        ],
+        "attrs": [
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 24.38095238095238
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 36.57142857142857
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "menu"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 24.38095238095238
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(255, 255, 255)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 36.57142857142857
+        }
+      ],
+      "properties": {
+        "order": 62,
+        "id": 0,
+        "name": "menu",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 16,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M0 0h3301.517v1024h-3301.517z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "width": 3302,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "logo"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 63,
+        "id": 0,
+        "name": "logo",
+        "prevSize": 32
+      },
+      "setIdx": 1,
+      "setId": 15,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M736.939 1024c-179.541 0-371.234-65.946-521.079-215.859-133.356-133.050-215.86-317.020-215.86-520.261 0-0.288 0-0.575 0-0.863l-0 0.044c-0-0.040-0-0.088-0-0.137 0-158.464 128.461-286.925 286.925-286.925 0.048 0 0.096 0 0.144 0l-0.007-0c12.288 0 23.279 7.509 27.853 18.842l128.546 321.331c1.361 3.305 2.151 7.141 2.151 11.162 0 12.569-7.719 23.334-18.676 27.814l-0.201 0.073-141.175 56.457c10.641 162.752 140.011 292.121 301.797 302.712l0.966 0.051 56.525-141.175c4.564-11.132 15.317-18.829 27.868-18.829 3.976 0 7.772 0.773 11.246 2.176l-0.202-0.072 321.399 128.546c11.132 4.559 18.833 15.305 18.842 27.852l0 0.001c0 0.040 0 0.088 0 0.137 0 158.464-128.461 286.925-286.925 286.925-0.048 0-0.096-0-0.144-0l0.007 0zM267.127 60.894c-116.518 10.542-207.121 107.748-207.121 226.116 0 0.018 0 0.036 0 0.055l-0-0.003c-0.002 0.568-0.003 1.24-0.003 1.912 0 186.331 75.788 354.96 198.22 476.745l0.029 0.029c121.824 122.461 290.462 198.249 476.802 198.249 0.662 0 1.324-0.001 1.986-0.003l-0.103 0c0.015 0 0.034 0 0.052 0 118.368 0 215.574-90.603 226.051-206.241l0.064-0.88-273.749-109.5-53.111 132.847c-4.559 11.132-15.305 18.833-27.852 18.842l-0.001 0c-211.682-0.233-383.221-171.772-383.454-383.432l-0-0.022c0-12.288 7.509-23.279 18.842-27.853l132.847-53.111-109.5-273.749z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(255, 255, 255)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "phone"
+        ],
+        "colorPermutations": {
+          "2552552551941101301": [
+            {
+              "f": 1
+            }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "rgb(255, 255, 255)"
+        }
+      ],
+      "properties": {
+        "order": 64,
+        "id": 1,
+        "name": "phone",
+        "prevSize": 32
+      },
+      "setIdx": 2,
+      "setId": 14,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "name": "icomoon",
+      "height": 32,
+      "columns": 16,
+      "margin": 16
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
